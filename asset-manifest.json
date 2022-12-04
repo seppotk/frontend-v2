@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/seppotk/frontend-v2.git/static/css/main.f37b5ec5.css",
+    "main.js": "/seppotk/frontend-v2.git/static/js/main.1007f27c.js",
+    "index.html": "/seppotk/frontend-v2.git/index.html",
+    "main.f37b5ec5.css.map": "/seppotk/frontend-v2.git/static/css/main.f37b5ec5.css.map",
+    "main.1007f27c.js.map": "/seppotk/frontend-v2.git/static/js/main.1007f27c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f37b5ec5.css",
+    "static/js/main.1007f27c.js"
+  ]
+}
